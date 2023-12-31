@@ -17,5 +17,6 @@ module TechlogApp
         helper_specs: false,  #ヘルパーファイル用のスペックを作成しない
         routing_specs: false  #ルート用のスペックファイルを作成しない
     end
+    config.i18n.default_locale = :ja
   end
 end
