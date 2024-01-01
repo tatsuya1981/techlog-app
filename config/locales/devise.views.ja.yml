@@ -44,7 +44,7 @@ ja:
     failure:
       invalid: "%{authentication_keys}またはパスワードが違います。"
       user:
-        unauthenticated: "ログインして下さい。"
+        unauthenticated: "ログインしてください。"
     registrations:
       user:
         signed_up: ユーザー登録に成功しました。
